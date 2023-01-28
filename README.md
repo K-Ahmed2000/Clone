@@ -1,2 +1,2 @@
 # Clone
-Repository For Cloninf
+Repository For Cloning
